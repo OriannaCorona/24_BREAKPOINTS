@@ -5,7 +5,7 @@
 }
 @media screen and (min-width: 768px) and (max-width: 1366px){
 	body{
-		background-color: green;
+		background-image: url(../img/cover.jpg);
 	}
 }
  @media screen and (min-width: 1366px) and (max-width: 3000px){
@@ -13,7 +13,7 @@
 		background-color: yellow;
 	}
 }
-#salmon, p{
+p, h1{
 	color: white;
 	font-family: helvetica;
 }
